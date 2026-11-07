@@ -1,0 +1,4498 @@
+[
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "197912",
+    "ponto": "0.0000000076",
+    "fator": null,
+    "ipca_realizado": null,
+    "ipca_realizado_anbima": null
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198001",
+    "ponto": "0.0000000081",
+    "fator": "1.0661564916",
+    "ipca_realizado": "0.0661564916",
+    "ipca_realizado_anbima": "6,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198002",
+    "ponto": "0.0000000085",
+    "fator": "1.0461691885",
+    "ipca_realizado": "0.0461691885",
+    "ipca_realizado_anbima": "4,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198003",
+    "ponto": "0.0000000090",
+    "fator": "1.0603838866",
+    "ipca_realizado": "0.0603838866",
+    "ipca_realizado_anbima": "6,04%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198004",
+    "ponto": "0.0000000095",
+    "fator": "1.0528611382",
+    "ipca_realizado": "0.0528611382",
+    "ipca_realizado_anbima": "5,29%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198005",
+    "ponto": "0.0000000100",
+    "fator": "1.0570272065",
+    "ipca_realizado": "0.0570272065",
+    "ipca_realizado_anbima": "5,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198006",
+    "ponto": "0.0000000106",
+    "fator": "1.0530530431",
+    "ipca_realizado": "0.0530530431",
+    "ipca_realizado_anbima": "5,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198007",
+    "ponto": "0.0000000111",
+    "fator": "1.0554561209",
+    "ipca_realizado": "0.0554561209",
+    "ipca_realizado_anbima": "5,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198008",
+    "ponto": "0.0000000117",
+    "fator": "1.0494558244",
+    "ipca_realizado": "0.0494558244",
+    "ipca_realizado_anbima": "4,95%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198009",
+    "ponto": "0.0000000122",
+    "fator": "1.0423032531",
+    "ipca_realizado": "0.0423032531",
+    "ipca_realizado_anbima": "4,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198010",
+    "ponto": "0.0000000133",
+    "fator": "1.0948053120",
+    "ipca_realizado": "0.0948053120",
+    "ipca_realizado_anbima": "9,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198011",
+    "ponto": "0.0000000142",
+    "fator": "1.0667335976",
+    "ipca_realizado": "0.0667335976",
+    "ipca_realizado_anbima": "6,67%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198012",
+    "ponto": "0.0000000152",
+    "fator": "1.0661408364",
+    "ipca_realizado": "0.0661408364",
+    "ipca_realizado_anbima": "6,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198101",
+    "ponto": "0.0000000162",
+    "fator": "1.0683751112",
+    "ipca_realizado": "0.0683751112",
+    "ipca_realizado_anbima": "6,84%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198102",
+    "ponto": "0.0000000173",
+    "fator": "1.0640114938",
+    "ipca_realizado": "0.0640114938",
+    "ipca_realizado_anbima": "6,40%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198103",
+    "ponto": "0.0000000181",
+    "fator": "1.0497174814",
+    "ipca_realizado": "0.0497174814",
+    "ipca_realizado_anbima": "4,97%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198104",
+    "ponto": "0.0000000193",
+    "fator": "1.0646206676",
+    "ipca_realizado": "0.0646206676",
+    "ipca_realizado_anbima": "6,46%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198105",
+    "ponto": "0.0000000204",
+    "fator": "1.0555956005",
+    "ipca_realizado": "0.0555956005",
+    "ipca_realizado_anbima": "5,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198106",
+    "ponto": "0.0000000215",
+    "fator": "1.0551778345",
+    "ipca_realizado": "0.0551778345",
+    "ipca_realizado_anbima": "5,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198107",
+    "ponto": "0.0000000228",
+    "fator": "1.0625581958",
+    "ipca_realizado": "0.0625581958",
+    "ipca_realizado_anbima": "6,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198108",
+    "ponto": "0.0000000241",
+    "fator": "1.0549579589",
+    "ipca_realizado": "0.0549579589",
+    "ipca_realizado_anbima": "5,50%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198109",
+    "ponto": "0.0000000253",
+    "fator": "1.0525684050",
+    "ipca_realizado": "0.0525684050",
+    "ipca_realizado_anbima": "5,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198110",
+    "ponto": "0.0000000266",
+    "fator": "1.0507755624",
+    "ipca_realizado": "0.0507755624",
+    "ipca_realizado_anbima": "5,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198111",
+    "ponto": "0.0000000280",
+    "fator": "1.0527155770",
+    "ipca_realizado": "0.0527155770",
+    "ipca_realizado_anbima": "5,27%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198112",
+    "ponto": "0.0000000297",
+    "fator": "1.0592541067",
+    "ipca_realizado": "0.0592541067",
+    "ipca_realizado_anbima": "5,93%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198201",
+    "ponto": "0.0000000318",
+    "fator": "1.0696490271",
+    "ipca_realizado": "0.0696490271",
+    "ipca_realizado_anbima": "6,96%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198202",
+    "ponto": "0.0000000339",
+    "fator": "1.0663669450",
+    "ipca_realizado": "0.0663669450",
+    "ipca_realizado_anbima": "6,64%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198203",
+    "ponto": "0.0000000358",
+    "fator": "1.0571259020",
+    "ipca_realizado": "0.0571259020",
+    "ipca_realizado_anbima": "5,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198204",
+    "ponto": "0.0000000379",
+    "fator": "1.0588733079",
+    "ipca_realizado": "0.0588733079",
+    "ipca_realizado_anbima": "5,89%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198205",
+    "ponto": "0.0000000404",
+    "fator": "1.0665854295",
+    "ipca_realizado": "0.0665854295",
+    "ipca_realizado_anbima": "6,66%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198206",
+    "ponto": "0.0000000433",
+    "fator": "1.0710491565",
+    "ipca_realizado": "0.0710491565",
+    "ipca_realizado_anbima": "7,10%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198207",
+    "ponto": "0.0000000461",
+    "fator": "1.0635792507",
+    "ipca_realizado": "0.0635792507",
+    "ipca_realizado_anbima": "6,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198208",
+    "ponto": "0.0000000488",
+    "fator": "1.0597286443",
+    "ipca_realizado": "0.0597286443",
+    "ipca_realizado_anbima": "5,97%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198209",
+    "ponto": "0.0000000513",
+    "fator": "1.0508025991",
+    "ipca_realizado": "0.0508025991",
+    "ipca_realizado_anbima": "5,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198210",
+    "ponto": "0.0000000536",
+    "fator": "1.0444241701",
+    "ipca_realizado": "0.0444241701",
+    "ipca_realizado_anbima": "4,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198211",
+    "ponto": "0.0000000564",
+    "fator": "1.0528845436",
+    "ipca_realizado": "0.0528845436",
+    "ipca_realizado_anbima": "5,29%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198212",
+    "ponto": "0.0000000608",
+    "fator": "1.0780591578",
+    "ipca_realizado": "0.0780591578",
+    "ipca_realizado_anbima": "7,81%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198301",
+    "ponto": "0.0000000661",
+    "fator": "1.0864110031",
+    "ipca_realizado": "0.0864110031",
+    "ipca_realizado_anbima": "8,64%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198302",
+    "ponto": "0.0000000713",
+    "fator": "1.0785814293",
+    "ipca_realizado": "0.0785814293",
+    "ipca_realizado_anbima": "7,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198303",
+    "ponto": "0.0000000765",
+    "fator": "1.0734484922",
+    "ipca_realizado": "0.0734484922",
+    "ipca_realizado_anbima": "7,34%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198304",
+    "ponto": "0.0000000815",
+    "fator": "1.0657925872",
+    "ipca_realizado": "0.0657925872",
+    "ipca_realizado_anbima": "6,58%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198305",
+    "ponto": "0.0000000868",
+    "fator": "1.0648295911",
+    "ipca_realizado": "0.0648295911",
+    "ipca_realizado_anbima": "6,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198306",
+    "ponto": "0.0000000954",
+    "fator": "1.0988034747",
+    "ipca_realizado": "0.0988034747",
+    "ipca_realizado_anbima": "9,88%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198307",
+    "ponto": "0.0000001050",
+    "fator": "1.1007843853",
+    "ipca_realizado": "0.1007843853",
+    "ipca_realizado_anbima": "10,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198308",
+    "ponto": "0.0000001146",
+    "fator": "1.0911121206",
+    "ipca_realizado": "0.0911121206",
+    "ipca_realizado_anbima": "9,11%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198309",
+    "ponto": "0.0000001264",
+    "fator": "1.1030060113",
+    "ipca_realizado": "0.1030060113",
+    "ipca_realizado_anbima": "10,30%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198310",
+    "ponto": "0.0000001376",
+    "fator": "1.0886655029",
+    "ipca_realizado": "0.0886655029",
+    "ipca_realizado_anbima": "8,87%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198311",
+    "ponto": "0.0000001477",
+    "fator": "1.0738424120",
+    "ipca_realizado": "0.0738424120",
+    "ipca_realizado_anbima": "7,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198312",
+    "ponto": "0.0000001606",
+    "fator": "1.0867709911",
+    "ipca_realizado": "0.0867709911",
+    "ipca_realizado_anbima": "8,68%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198401",
+    "ponto": "0.0000001761",
+    "fator": "1.0966893844",
+    "ipca_realizado": "0.0966893844",
+    "ipca_realizado_anbima": "9,67%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198402",
+    "ponto": "0.0000001928",
+    "fator": "1.0950073748",
+    "ipca_realizado": "0.0950073748",
+    "ipca_realizado_anbima": "9,50%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198403",
+    "ponto": "0.0000002100",
+    "fator": "1.0893854836",
+    "ipca_realizado": "0.0893854836",
+    "ipca_realizado_anbima": "8,94%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198404",
+    "ponto": "0.0000002301",
+    "fator": "1.0954299674",
+    "ipca_realizado": "0.0954299674",
+    "ipca_realizado_anbima": "9,54%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198405",
+    "ponto": "0.0000002509",
+    "fator": "1.0905022353",
+    "ipca_realizado": "0.0905022353",
+    "ipca_realizado_anbima": "9,05%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198406",
+    "ponto": "0.0000002762",
+    "fator": "1.1008018665",
+    "ipca_realizado": "0.1008018665",
+    "ipca_realizado_anbima": "10,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198407",
+    "ponto": "0.0000003031",
+    "fator": "1.0972466767",
+    "ipca_realizado": "0.0972466767",
+    "ipca_realizado_anbima": "9,72%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198408",
+    "ponto": "0.0000003314",
+    "fator": "1.0934920826",
+    "ipca_realizado": "0.0934920826",
+    "ipca_realizado_anbima": "9,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198409",
+    "ponto": "0.0000003703",
+    "fator": "1.1174807339",
+    "ipca_realizado": "0.1174807339",
+    "ipca_realizado_anbima": "11,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198410",
+    "ponto": "0.0000004090",
+    "fator": "1.1043719864",
+    "ipca_realizado": "0.1043719864",
+    "ipca_realizado_anbima": "10,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198411",
+    "ponto": "0.0000004520",
+    "fator": "1.1052633767",
+    "ipca_realizado": "0.1052633767",
+    "ipca_realizado_anbima": "10,53%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198412",
+    "ponto": "0.0000005062",
+    "fator": "1.1197723182",
+    "ipca_realizado": "0.1197723182",
+    "ipca_realizado_anbima": "11,98%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198501",
+    "ponto": "0.0000005657",
+    "fator": "1.1175926231",
+    "ipca_realizado": "0.1175926231",
+    "ipca_realizado_anbima": "11,76%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198502",
+    "ponto": "0.0000006271",
+    "fator": "1.1086524603",
+    "ipca_realizado": "0.1086524603",
+    "ipca_realizado_anbima": "10,87%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198503",
+    "ponto": "0.0000006909",
+    "fator": "1.1016228959",
+    "ipca_realizado": "0.1016228959",
+    "ipca_realizado_anbima": "10,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198504",
+    "ponto": "0.0000007475",
+    "fator": "1.0819533579",
+    "ipca_realizado": "0.0819533579",
+    "ipca_realizado_anbima": "8,20%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198505",
+    "ponto": "0.0000008013",
+    "fator": "1.0719583930",
+    "ipca_realizado": "0.0719583930",
+    "ipca_realizado_anbima": "7,20%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198506",
+    "ponto": "0.0000008693",
+    "fator": "1.0849392907",
+    "ipca_realizado": "0.0849392907",
+    "ipca_realizado_anbima": "8,49%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198507",
+    "ponto": "0.0000009590",
+    "fator": "1.1031299833",
+    "ipca_realizado": "0.1031299833",
+    "ipca_realizado_anbima": "10,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198508",
+    "ponto": "0.0000010745",
+    "fator": "1.1204956331",
+    "ipca_realizado": "0.1204956331",
+    "ipca_realizado_anbima": "12,05%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198509",
+    "ponto": "0.0000011940",
+    "fator": "1.1111740317",
+    "ipca_realizado": "0.1111740317",
+    "ipca_realizado_anbima": "11,12%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198510",
+    "ponto": "0.0000013208",
+    "fator": "1.1061644923",
+    "ipca_realizado": "0.1061644923",
+    "ipca_realizado_anbima": "10,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198511",
+    "ponto": "0.0000015053",
+    "fator": "1.1397293864",
+    "ipca_realizado": "0.1397293864",
+    "ipca_realizado_anbima": "13,97%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198512",
+    "ponto": "0.0000017322",
+    "fator": "1.1507304532",
+    "ipca_realizado": "0.1507304532",
+    "ipca_realizado_anbima": "15,07%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198601",
+    "ponto": "0.0000019812",
+    "fator": "1.1437235061",
+    "ipca_realizado": "0.1437235061",
+    "ipca_realizado_anbima": "14,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198602",
+    "ponto": "0.0000022331",
+    "fator": "1.1271625723",
+    "ipca_realizado": "0.1271625723",
+    "ipca_realizado_anbima": "12,72%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198603",
+    "ponto": "0.0000023396",
+    "fator": "1.0477018577",
+    "ipca_realizado": "0.0477018577",
+    "ipca_realizado_anbima": "4,77%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198604",
+    "ponto": "0.0000023579",
+    "fator": "1.0078000321",
+    "ipca_realizado": "0.0078000321",
+    "ipca_realizado_anbima": "0,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198605",
+    "ponto": "0.0000023909",
+    "fator": "1.0139908696",
+    "ipca_realizado": "0.0139908696",
+    "ipca_realizado_anbima": "1,40%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198606",
+    "ponto": "0.0000024213",
+    "fator": "1.0127213975",
+    "ipca_realizado": "0.0127213975",
+    "ipca_realizado_anbima": "1,27%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198607",
+    "ponto": "0.0000024627",
+    "fator": "1.0171030700",
+    "ipca_realizado": "0.0171030700",
+    "ipca_realizado_anbima": "1,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198608",
+    "ponto": "0.0000025502",
+    "fator": "1.0355311009",
+    "ipca_realizado": "0.0355311009",
+    "ipca_realizado_anbima": "3,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198609",
+    "ponto": "0.0000025939",
+    "fator": "1.0171559600",
+    "ipca_realizado": "0.0171559600",
+    "ipca_realizado_anbima": "1,72%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198610",
+    "ponto": "0.0000026433",
+    "fator": "1.0190312887",
+    "ipca_realizado": "0.0190312887",
+    "ipca_realizado_anbima": "1,90%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198611",
+    "ponto": "0.0000027874",
+    "fator": "1.0545229257",
+    "ipca_realizado": "0.0545229257",
+    "ipca_realizado_anbima": "5,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198612",
+    "ponto": "0.0000031122",
+    "fator": "1.1165015789",
+    "ipca_realizado": "0.1165015789",
+    "ipca_realizado_anbima": "11,65%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198701",
+    "ponto": "0.0000035233",
+    "fator": "1.1320854204",
+    "ipca_realizado": "0.1320854204",
+    "ipca_realizado_anbima": "13,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198702",
+    "ponto": "0.0000039685",
+    "fator": "1.1263696228",
+    "ipca_realizado": "0.1263696228",
+    "ipca_realizado_anbima": "12,64%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198703",
+    "ponto": "0.0000046182",
+    "fator": "1.1637188861",
+    "ipca_realizado": "0.1637188861",
+    "ipca_realizado_anbima": "16,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198704",
+    "ponto": "0.0000055002",
+    "fator": "1.1909924400",
+    "ipca_realizado": "0.1909924400",
+    "ipca_realizado_anbima": "19,10%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198705",
+    "ponto": "0.0000066801",
+    "fator": "1.2145136044",
+    "ipca_realizado": "0.2145136044",
+    "ipca_realizado_anbima": "21,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198706",
+    "ponto": "0.0000079969",
+    "fator": "1.1971140410",
+    "ipca_realizado": "0.1971140410",
+    "ipca_realizado_anbima": "19,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198707",
+    "ponto": "0.0000087334",
+    "fator": "1.0921006335",
+    "ipca_realizado": "0.0921006335",
+    "ipca_realizado_anbima": "9,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198708",
+    "ponto": "0.0000091587",
+    "fator": "1.0487033869",
+    "ipca_realizado": "0.0487033869",
+    "ipca_realizado_anbima": "4,87%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198709",
+    "ponto": "0.0000098714",
+    "fator": "1.0778112778",
+    "ipca_realizado": "0.0778112778",
+    "ipca_realizado_anbima": "7,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198710",
+    "ponto": "0.0000109790",
+    "fator": "1.1122013625",
+    "ipca_realizado": "0.1122013625",
+    "ipca_realizado_anbima": "11,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198711",
+    "ponto": "0.0000126345",
+    "fator": "1.1507906058",
+    "ipca_realizado": "0.1507906058",
+    "ipca_realizado_anbima": "15,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198712",
+    "ponto": "0.0000144222",
+    "fator": "1.1414947608",
+    "ipca_realizado": "0.1414947608",
+    "ipca_realizado_anbima": "14,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198801",
+    "ponto": "0.0000171465",
+    "fator": "1.1888941195",
+    "ipca_realizado": "0.1888941195",
+    "ipca_realizado_anbima": "18,89%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198802",
+    "ponto": "0.0000198384",
+    "fator": "1.1569991923",
+    "ipca_realizado": "0.1569991923",
+    "ipca_realizado_anbima": "15,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198803",
+    "ponto": "0.0000233301",
+    "fator": "1.1760050964",
+    "ipca_realizado": "0.1760050964",
+    "ipca_realizado_anbima": "17,60%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198804",
+    "ponto": "0.0000278304",
+    "fator": "1.1928961102",
+    "ipca_realizado": "0.1928961102",
+    "ipca_realizado_anbima": "19,29%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198805",
+    "ponto": "0.0000326783",
+    "fator": "1.1741961027",
+    "ipca_realizado": "0.1741961027",
+    "ipca_realizado_anbima": "17,42%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198806",
+    "ponto": "0.0000398676",
+    "fator": "1.2199995671",
+    "ipca_realizado": "0.2199995671",
+    "ipca_realizado_anbima": "22,00%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198807",
+    "ponto": "0.0000486026",
+    "fator": "1.2191008273",
+    "ipca_realizado": "0.2191008273",
+    "ipca_realizado_anbima": "21,91%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198808",
+    "ponto": "0.0000590958",
+    "fator": "1.2158990254",
+    "ipca_realizado": "0.2158990254",
+    "ipca_realizado_anbima": "21,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198809",
+    "ponto": "0.0000753176",
+    "fator": "1.2745005663",
+    "ipca_realizado": "0.2745005663",
+    "ipca_realizado_anbima": "27,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198810",
+    "ponto": "0.0000946140",
+    "fator": "1.2561995028",
+    "ipca_realizado": "0.2561995028",
+    "ipca_realizado_anbima": "25,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198811",
+    "ponto": "0.0001210493",
+    "fator": "1.2794011826",
+    "ipca_realizado": "0.2794011826",
+    "ipca_realizado_anbima": "27,94%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198812",
+    "ponto": "0.0001557904",
+    "fator": "1.2870004216",
+    "ipca_realizado": "0.2870004216",
+    "ipca_realizado_anbima": "28,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198901",
+    "ponto": "0.0002141963",
+    "fator": "1.3749001314",
+    "ipca_realizado": "0.3749001314",
+    "ipca_realizado_anbima": "37,49%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198902",
+    "ponto": "0.0002501384",
+    "fator": "1.1677999111",
+    "ipca_realizado": "0.1677999111",
+    "ipca_realizado_anbima": "16,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198903",
+    "ponto": "0.0002671978",
+    "fator": "1.0681999298",
+    "ipca_realizado": "0.0681999298",
+    "ipca_realizado_anbima": "6,82%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198904",
+    "ponto": "0.0002894555",
+    "fator": "1.0833001328",
+    "ipca_realizado": "0.0833001328",
+    "ipca_realizado_anbima": "8,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198905",
+    "ponto": "0.0003413258",
+    "fator": "1.1791996988",
+    "ipca_realizado": "0.1791996988",
+    "ipca_realizado_anbima": "17,92%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198906",
+    "ponto": "0.0004391156",
+    "fator": "1.2864999138",
+    "ipca_realizado": "0.2864999138",
+    "ipca_realizado_anbima": "28,65%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198907",
+    "ponto": "0.0005609262",
+    "fator": "1.2773997820",
+    "ipca_realizado": "0.2773997820",
+    "ipca_realizado_anbima": "27,74%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198908",
+    "ponto": "0.0007500145",
+    "fator": "1.3371001770",
+    "ipca_realizado": "0.3371001770",
+    "ipca_realizado_anbima": "33,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198909",
+    "ponto": "0.0010317199",
+    "fator": "1.3755999868",
+    "ipca_realizado": "0.3755999868",
+    "ipca_realizado_anbima": "37,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198910",
+    "ponto": "0.0014420349",
+    "fator": "1.3976999624",
+    "ipca_realizado": "0.3976999624",
+    "ipca_realizado_anbima": "39,77%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198911",
+    "ponto": "0.0021316160",
+    "fator": "1.4782000135",
+    "ipca_realizado": "0.4782000135",
+    "ipca_realizado_anbima": "47,82%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "198912",
+    "ponto": "0.0032293982",
+    "fator": "1.5149999918",
+    "ipca_realizado": "0.5149999918",
+    "ipca_realizado_anbima": "51,50%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199001",
+    "ponto": "0.0054108567",
+    "fator": "1.6755000228",
+    "ipca_realizado": "0.6755000228",
+    "ipca_realizado_anbima": "67,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199002",
+    "ponto": "0.0095084985",
+    "fator": "1.7572999861",
+    "ipca_realizado": "0.7572999861",
+    "ipca_realizado_anbima": "75,73%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199003",
+    "ponto": "0.0173425504",
+    "fator": "1.8238999966",
+    "ipca_realizado": "0.8238999966",
+    "ipca_realizado_anbima": "82,39%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199004",
+    "ponto": "0.0200341141",
+    "fator": "1.1551999944",
+    "ipca_realizado": "0.1551999944",
+    "ipca_realizado_anbima": "15,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199005",
+    "ponto": "0.0215547032",
+    "fator": "1.0758999959",
+    "ipca_realizado": "0.0758999959",
+    "ipca_realizado_anbima": "7,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199006",
+    "ponto": "0.0240873810",
+    "fator": "1.1175000036",
+    "ipca_realizado": "0.1175000036",
+    "ipca_realizado_anbima": "11,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199007",
+    "ponto": "0.0271994705",
+    "fator": "1.1291999967",
+    "ipca_realizado": "0.1291999967",
+    "ipca_realizado_anbima": "12,92%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199008",
+    "ponto": "0.0307027623",
+    "fator": "1.1288000010",
+    "ipca_realizado": "0.1288000010",
+    "ipca_realizado_anbima": "12,88%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199009",
+    "ponto": "0.0351270304",
+    "fator": "1.1441000013",
+    "ipca_realizado": "0.1441000013",
+    "ipca_realizado_anbima": "14,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199010",
+    "ponto": "0.0401712721",
+    "fator": "1.1436000022",
+    "ipca_realizado": "0.1436000022",
+    "ipca_realizado_anbima": "14,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199011",
+    "ponto": "0.0469240628",
+    "fator": "1.1680999974",
+    "ipca_realizado": "0.1680999974",
+    "ipca_realizado_anbima": "16,81%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199012",
+    "ponto": "0.0555768600",
+    "fator": "1.1844000012",
+    "ipca_realizado": "0.1844000012",
+    "ipca_realizado_anbima": "18,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199101",
+    "ponto": "0.0671090585",
+    "fator": "1.2075000000",
+    "ipca_realizado": "0.2075000000",
+    "ipca_realizado_anbima": "20,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199102",
+    "ponto": "0.0810143888",
+    "fator": "1.2072049689",
+    "ipca_realizado": "0.2072049689",
+    "ipca_realizado_anbima": "20,72%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199103",
+    "ponto": "0.0906736471",
+    "fator": "1.1192289223",
+    "ipca_realizado": "0.1192289223",
+    "ipca_realizado_anbima": "11,92%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199104",
+    "ponto": "0.0951976035",
+    "fator": "1.0498927367",
+    "ipca_realizado": "0.0498927367",
+    "ipca_realizado_anbima": "4,99%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199105",
+    "ponto": "0.1022725378",
+    "fator": "1.0743184074",
+    "ipca_realizado": "0.0743184074",
+    "ipca_realizado_anbima": "7,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199106",
+    "ponto": "0.1137158133",
+    "fator": "1.1118900120",
+    "ipca_realizado": "0.1118900120",
+    "ipca_realizado_anbima": "11,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199107",
+    "ponto": "0.1278267780",
+    "fator": "1.1240897317",
+    "ipca_realizado": "0.1240897317",
+    "ipca_realizado_anbima": "12,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199108",
+    "ponto": "0.1478066592",
+    "fator": "1.1563043478",
+    "ipca_realizado": "0.1563043478",
+    "ipca_realizado_anbima": "15,63%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199109",
+    "ponto": "0.1709099599",
+    "fator": "1.1563075766",
+    "ipca_realizado": "0.1563075766",
+    "ipca_realizado_anbima": "15,63%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199110",
+    "ponto": "0.2054843245",
+    "fator": "1.2022957856",
+    "ipca_realizado": "0.2022957856",
+    "ipca_realizado_anbima": "20,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199111",
+    "ponto": "0.2572875158",
+    "fator": "1.2521028859",
+    "ipca_realizado": "0.2521028859",
+    "ipca_realizado_anbima": "25,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199112",
+    "ponto": "0.3182886773",
+    "fator": "1.2370933598",
+    "ipca_realizado": "0.2370933598",
+    "ipca_realizado_anbima": "23,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199201",
+    "ponto": "0.4008536606",
+    "fator": "1.2594028287",
+    "ipca_realizado": "0.2594028287",
+    "ipca_realizado_anbima": "25,94%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199202",
+    "ponto": "0.4983410307",
+    "fator": "1.2431994010",
+    "ipca_realizado": "0.2431994010",
+    "ipca_realizado_anbima": "24,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199203",
+    "ponto": "0.6049874674",
+    "fator": "1.2140029219",
+    "ipca_realizado": "0.2140029219",
+    "ipca_realizado_anbima": "21,40%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199204",
+    "ponto": "0.7255614652",
+    "fator": "1.1992999927",
+    "ipca_realizado": "0.1992999927",
+    "ipca_realizado_anbima": "19,93%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199205",
+    "ponto": "0.9059361644",
+    "fator": "1.2486001639",
+    "ipca_realizado": "0.2486001639",
+    "ipca_realizado_anbima": "24,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199206",
+    "ponto": "1.0890285721",
+    "fator": "1.2021029901",
+    "ipca_realizado": "0.2021029901",
+    "ipca_realizado_anbima": "20,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199207",
+    "ponto": "1.3267641485",
+    "fator": "1.2183005869",
+    "ipca_realizado": "0.2183005869",
+    "ipca_realizado_anbima": "21,83%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199208",
+    "ponto": "1.6205100844",
+    "fator": "1.2214002664",
+    "ipca_realizado": "0.2214002664",
+    "ipca_realizado_anbima": "22,14%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199209",
+    "ponto": "2.0196408623",
+    "fator": "1.2462994718",
+    "ipca_realizado": "0.2462994718",
+    "ipca_realizado_anbima": "24,63%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199210",
+    "ponto": "2.5293973801",
+    "fator": "1.2523995861",
+    "ipca_realizado": "0.2523995861",
+    "ipca_realizado_anbima": "25,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199211",
+    "ponto": "3.0982598885",
+    "fator": "1.2249004102",
+    "ipca_realizado": "0.2249004102",
+    "ipca_realizado_anbima": "22,49%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199212",
+    "ponto": "3.8802596551",
+    "fator": "1.2523996678",
+    "ipca_realizado": "0.2523996678",
+    "ipca_realizado_anbima": "25,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199301",
+    "ponto": "5.0579166458",
+    "fator": "1.3034995324",
+    "ipca_realizado": "0.3034995324",
+    "ipca_realizado_anbima": "30,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199302",
+    "ponto": "6.3213843084",
+    "fator": "1.2498000167",
+    "ipca_realizado": "0.2498000167",
+    "ipca_realizado_anbima": "24,98%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199303",
+    "ponto": "8.0445948725",
+    "fator": "1.2726001901",
+    "ipca_realizado": "0.2726001901",
+    "ipca_realizado_anbima": "27,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199304",
+    "ponto": "10.2769672819",
+    "fator": "1.2774996684",
+    "ipca_realizado": "0.2774996684",
+    "ipca_realizado_anbima": "27,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199305",
+    "ponto": "13.1226581301",
+    "fator": "1.2768998645",
+    "ipca_realizado": "0.2768998645",
+    "ipca_realizado_anbima": "27,69%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199306",
+    "ponto": "17.0686429798",
+    "fator": "1.3007001181",
+    "ipca_realizado": "0.3007001181",
+    "ipca_realizado_anbima": "30,07%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199307",
+    "ponto": "22.3121307612",
+    "fator": "1.3072000386",
+    "ipca_realizado": "0.3072000386",
+    "ipca_realizado_anbima": "30,72%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199308",
+    "ponto": "29.6662109364",
+    "fator": "1.3296000841",
+    "ipca_realizado": "0.3296000841",
+    "ipca_realizado_anbima": "32,96%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199309",
+    "ponto": "40.2540807309",
+    "fator": "1.3568999700",
+    "ipca_realizado": "0.3568999700",
+    "ipca_realizado_anbima": "35,69%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199310",
+    "ponto": "53.9082648349",
+    "fator": "1.3391999980",
+    "ipca_realizado": "0.3391999980",
+    "ipca_realizado_anbima": "33,92%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199311",
+    "ponto": "73.0780465845",
+    "fator": "1.3556000515",
+    "ipca_realizado": "0.3556000515",
+    "ipca_realizado_anbima": "35,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199312",
+    "ponto": "100.0000000000",
+    "fator": "1.3684000144",
+    "ipca_realizado": "0.3684000144",
+    "ipca_realizado_anbima": "36,84%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199401",
+    "ponto": "141.3100000000",
+    "fator": "1.4131000000",
+    "ipca_realizado": "0.4131000000",
+    "ipca_realizado_anbima": "41,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199402",
+    "ponto": "198.2200000000",
+    "fator": "1.4027315830",
+    "ipca_realizado": "0.4027315830",
+    "ipca_realizado_anbima": "40,27%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199403",
+    "ponto": "282.9600000000",
+    "fator": "1.4275047927",
+    "ipca_realizado": "0.4275047927",
+    "ipca_realizado_anbima": "42,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199404",
+    "ponto": "403.7300000000",
+    "fator": "1.4268094430",
+    "ipca_realizado": "0.4268094430",
+    "ipca_realizado_anbima": "42,68%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199405",
+    "ponto": "581.4900000000",
+    "fator": "1.4402942561",
+    "ipca_realizado": "0.4402942561",
+    "ipca_realizado_anbima": "44,03%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199406",
+    "ponto": "857.2900000000",
+    "fator": "1.4742987842",
+    "ipca_realizado": "0.4742987842",
+    "ipca_realizado_anbima": "47,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199407",
+    "ponto": "915.9300000000",
+    "fator": "1.0684015911",
+    "ipca_realizado": "0.0684015911",
+    "ipca_realizado_anbima": "6,84%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199408",
+    "ponto": "932.9700000000",
+    "fator": "1.0186040418",
+    "ipca_realizado": "0.0186040418",
+    "ipca_realizado_anbima": "1,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199409",
+    "ponto": "947.2400000000",
+    "fator": "1.0152952399",
+    "ipca_realizado": "0.0152952399",
+    "ipca_realizado_anbima": "1,53%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199410",
+    "ponto": "972.0600000000",
+    "fator": "1.0262024408",
+    "ipca_realizado": "0.0262024408",
+    "ipca_realizado_anbima": "2,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199411",
+    "ponto": "999.3700000000",
+    "fator": "1.0280949736",
+    "ipca_realizado": "0.0280949736",
+    "ipca_realizado_anbima": "2,81%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199412",
+    "ponto": "1016.4600000000",
+    "fator": "1.0171007735",
+    "ipca_realizado": "0.0171007735",
+    "ipca_realizado_anbima": "1,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199501",
+    "ponto": "1033.7400000000",
+    "fator": "1.0170001771",
+    "ipca_realizado": "0.0170001771",
+    "ipca_realizado_anbima": "1,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199502",
+    "ponto": "1044.2800000000",
+    "fator": "1.0101959874",
+    "ipca_realizado": "0.0101959874",
+    "ipca_realizado_anbima": "1,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199503",
+    "ponto": "1060.4700000000",
+    "fator": "1.0155035048",
+    "ipca_realizado": "0.0155035048",
+    "ipca_realizado_anbima": "1,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199504",
+    "ponto": "1086.2400000000",
+    "fator": "1.0243005460",
+    "ipca_realizado": "0.0243005460",
+    "ipca_realizado_anbima": "2,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199505",
+    "ponto": "1115.2400000000",
+    "fator": "1.0266975991",
+    "ipca_realizado": "0.0266975991",
+    "ipca_realizado_anbima": "2,67%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199506",
+    "ponto": "1140.4400000000",
+    "fator": "1.0225960331",
+    "ipca_realizado": "0.0225960331",
+    "ipca_realizado_anbima": "2,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199507",
+    "ponto": "1167.3500000000",
+    "fator": "1.0235961559",
+    "ipca_realizado": "0.0235961559",
+    "ipca_realizado_anbima": "2,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199508",
+    "ponto": "1178.9100000000",
+    "fator": "1.0099027712",
+    "ipca_realizado": "0.0099027712",
+    "ipca_realizado_anbima": "0,99%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199509",
+    "ponto": "1190.5800000000",
+    "fator": "1.0098989745",
+    "ipca_realizado": "0.0098989745",
+    "ipca_realizado_anbima": "0,99%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199510",
+    "ponto": "1207.3700000000",
+    "fator": "1.0141023703",
+    "ipca_realizado": "0.0141023703",
+    "ipca_realizado_anbima": "1,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199511",
+    "ponto": "1225.1200000000",
+    "fator": "1.0147013757",
+    "ipca_realizado": "0.0147013757",
+    "ipca_realizado_anbima": "1,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199512",
+    "ponto": "1244.2300000000",
+    "fator": "1.0155984720",
+    "ipca_realizado": "0.0155984720",
+    "ipca_realizado_anbima": "1,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199601",
+    "ponto": "1260.9000000000",
+    "fator": "1.0133978444",
+    "ipca_realizado": "0.0133978444",
+    "ipca_realizado_anbima": "1,34%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199602",
+    "ponto": "1273.8900000000",
+    "fator": "1.0103021651",
+    "ipca_realizado": "0.0103021651",
+    "ipca_realizado_anbima": "1,03%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199603",
+    "ponto": "1278.3500000000",
+    "fator": "1.0035010872",
+    "ipca_realizado": "0.0035010872",
+    "ipca_realizado_anbima": "0,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199604",
+    "ponto": "1294.4600000000",
+    "fator": "1.0126021825",
+    "ipca_realizado": "0.0126021825",
+    "ipca_realizado_anbima": "1,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199605",
+    "ponto": "1310.2500000000",
+    "fator": "1.0121981367",
+    "ipca_realizado": "0.0121981367",
+    "ipca_realizado_anbima": "1,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199606",
+    "ponto": "1325.8400000000",
+    "fator": "1.0118984927",
+    "ipca_realizado": "0.0118984927",
+    "ipca_realizado_anbima": "1,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199607",
+    "ponto": "1340.5600000000",
+    "fator": "1.0111023955",
+    "ipca_realizado": "0.0111023955",
+    "ipca_realizado_anbima": "1,11%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199608",
+    "ponto": "1346.4600000000",
+    "fator": "1.0044011458",
+    "ipca_realizado": "0.0044011458",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199609",
+    "ponto": "1348.4800000000",
+    "fator": "1.0015002302",
+    "ipca_realizado": "0.0015002302",
+    "ipca_realizado_anbima": "0,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199610",
+    "ponto": "1352.5300000000",
+    "fator": "1.0030033816",
+    "ipca_realizado": "0.0030033816",
+    "ipca_realizado_anbima": "0,30%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199611",
+    "ponto": "1356.8600000000",
+    "fator": "1.0032014077",
+    "ipca_realizado": "0.0032014077",
+    "ipca_realizado_anbima": "0,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199612",
+    "ponto": "1363.2400000000",
+    "fator": "1.0047020326",
+    "ipca_realizado": "0.0047020326",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199701",
+    "ponto": "1379.3300000000",
+    "fator": "1.0118027640",
+    "ipca_realizado": "0.0118027640",
+    "ipca_realizado_anbima": "1,18%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199702",
+    "ponto": "1386.2300000000",
+    "fator": "1.0050024287",
+    "ipca_realizado": "0.0050024287",
+    "ipca_realizado_anbima": "0,50%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199703",
+    "ponto": "1393.3000000000",
+    "fator": "1.0051001638",
+    "ipca_realizado": "0.0051001638",
+    "ipca_realizado_anbima": "0,51%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199704",
+    "ponto": "1405.5600000000",
+    "fator": "1.0087992536",
+    "ipca_realizado": "0.0087992536",
+    "ipca_realizado_anbima": "0,88%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199705",
+    "ponto": "1411.3200000000",
+    "fator": "1.0040980108",
+    "ipca_realizado": "0.0040980108",
+    "ipca_realizado_anbima": "0,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199706",
+    "ponto": "1418.9400000000",
+    "fator": "1.0053992007",
+    "ipca_realizado": "0.0053992007",
+    "ipca_realizado_anbima": "0,54%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199707",
+    "ponto": "1422.0600000000",
+    "fator": "1.0021988245",
+    "ipca_realizado": "0.0021988245",
+    "ipca_realizado_anbima": "0,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199708",
+    "ponto": "1421.7800000000",
+    "fator": "0.9998031025",
+    "ipca_realizado": "-0.0001968975",
+    "ipca_realizado_anbima": "-0,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199709",
+    "ponto": "1422.6300000000",
+    "fator": "1.0005978421",
+    "ipca_realizado": "0.0005978421",
+    "ipca_realizado_anbima": "0,06%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199710",
+    "ponto": "1425.9000000000",
+    "fator": "1.0022985597",
+    "ipca_realizado": "0.0022985597",
+    "ipca_realizado_anbima": "0,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199711",
+    "ponto": "1428.3200000000",
+    "fator": "1.0016971737",
+    "ipca_realizado": "0.0016971737",
+    "ipca_realizado_anbima": "0,17%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199712",
+    "ponto": "1434.4600000000",
+    "fator": "1.0042987566",
+    "ipca_realizado": "0.0042987566",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199801",
+    "ponto": "1444.6400000000",
+    "fator": "1.0070967472",
+    "ipca_realizado": "0.0070967472",
+    "ipca_realizado_anbima": "0,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199802",
+    "ponto": "1451.2900000000",
+    "fator": "1.0046032229",
+    "ipca_realizado": "0.0046032229",
+    "ipca_realizado_anbima": "0,46%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199803",
+    "ponto": "1456.2200000000",
+    "fator": "1.0033969779",
+    "ipca_realizado": "0.0033969779",
+    "ipca_realizado_anbima": "0,34%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199804",
+    "ponto": "1459.7100000000",
+    "fator": "1.0023966159",
+    "ipca_realizado": "0.0023966159",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199805",
+    "ponto": "1467.0100000000",
+    "fator": "1.0050009933",
+    "ipca_realizado": "0.0050009933",
+    "ipca_realizado_anbima": "0,50%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199806",
+    "ponto": "1467.3000000000",
+    "fator": "1.0001976810",
+    "ipca_realizado": "0.0001976810",
+    "ipca_realizado_anbima": "0,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199807",
+    "ponto": "1465.5400000000",
+    "fator": "0.9988005180",
+    "ipca_realizado": "-0.0011994820",
+    "ipca_realizado_anbima": "-0,12%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199808",
+    "ponto": "1458.0700000000",
+    "fator": "0.9949029027",
+    "ipca_realizado": "-0.0050970973",
+    "ipca_realizado_anbima": "-0,51%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199809",
+    "ponto": "1454.8600000000",
+    "fator": "0.9977984596",
+    "ipca_realizado": "-0.0022015404",
+    "ipca_realizado_anbima": "-0,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199810",
+    "ponto": "1455.1500000000",
+    "fator": "1.0001993319",
+    "ipca_realizado": "0.0001993319",
+    "ipca_realizado_anbima": "0,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199811",
+    "ponto": "1453.4000000000",
+    "fator": "0.9987973748",
+    "ipca_realizado": "-0.0012026252",
+    "ipca_realizado_anbima": "-0,12%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199812",
+    "ponto": "1458.2000000000",
+    "fator": "1.0033026008",
+    "ipca_realizado": "0.0033026008",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199901",
+    "ponto": "1468.4100000000",
+    "fator": "1.0070017830",
+    "ipca_realizado": "0.0070017830",
+    "ipca_realizado_anbima": "0,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199902",
+    "ponto": "1483.8300000000",
+    "fator": "1.0105011543",
+    "ipca_realizado": "0.0105011543",
+    "ipca_realizado_anbima": "1,05%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199903",
+    "ponto": "1500.1500000000",
+    "fator": "1.0109985645",
+    "ipca_realizado": "0.0109985645",
+    "ipca_realizado_anbima": "1,10%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199904",
+    "ponto": "1508.5500000000",
+    "fator": "1.0055994401",
+    "ipca_realizado": "0.0055994401",
+    "ipca_realizado_anbima": "0,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199905",
+    "ponto": "1513.0800000000",
+    "fator": "1.0030028836",
+    "ipca_realizado": "0.0030028836",
+    "ipca_realizado_anbima": "0,30%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199906",
+    "ponto": "1515.9500000000",
+    "fator": "1.0018967933",
+    "ipca_realizado": "0.0018967933",
+    "ipca_realizado_anbima": "0,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199907",
+    "ponto": "1532.4700000000",
+    "fator": "1.0108974570",
+    "ipca_realizado": "0.0108974570",
+    "ipca_realizado_anbima": "1,09%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199908",
+    "ponto": "1541.0500000000",
+    "fator": "1.0055988045",
+    "ipca_realizado": "0.0055988045",
+    "ipca_realizado_anbima": "0,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199909",
+    "ponto": "1545.8300000000",
+    "fator": "1.0031017813",
+    "ipca_realizado": "0.0031017813",
+    "ipca_realizado_anbima": "0,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199910",
+    "ponto": "1564.2300000000",
+    "fator": "1.0119029906",
+    "ipca_realizado": "0.0119029906",
+    "ipca_realizado_anbima": "1,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199911",
+    "ponto": "1579.0900000000",
+    "fator": "1.0094998817",
+    "ipca_realizado": "0.0094998817",
+    "ipca_realizado_anbima": "0,95%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "199912",
+    "ponto": "1588.5600000000",
+    "fator": "1.0059971249",
+    "ipca_realizado": "0.0059971249",
+    "ipca_realizado_anbima": "0,60%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200001",
+    "ponto": "1598.4100000000",
+    "fator": "1.0062005842",
+    "ipca_realizado": "0.0062005842",
+    "ipca_realizado_anbima": "0,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200002",
+    "ponto": "1600.4900000000",
+    "fator": "1.0013012932",
+    "ipca_realizado": "0.0013012932",
+    "ipca_realizado_anbima": "0,13%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200003",
+    "ponto": "1604.0100000000",
+    "fator": "1.0021993265",
+    "ipca_realizado": "0.0021993265",
+    "ipca_realizado_anbima": "0,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200004",
+    "ponto": "1610.7500000000",
+    "fator": "1.0042019688",
+    "ipca_realizado": "0.0042019688",
+    "ipca_realizado_anbima": "0,42%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200005",
+    "ponto": "1610.9100000000",
+    "fator": "1.0000993326",
+    "ipca_realizado": "0.0000993326",
+    "ipca_realizado_anbima": "0,01%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200006",
+    "ponto": "1614.6200000000",
+    "fator": "1.0023030461",
+    "ipca_realizado": "0.0023030461",
+    "ipca_realizado_anbima": "0,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200007",
+    "ponto": "1640.6200000000",
+    "fator": "1.0161028601",
+    "ipca_realizado": "0.0161028601",
+    "ipca_realizado_anbima": "1,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200008",
+    "ponto": "1662.1100000000",
+    "fator": "1.0130987066",
+    "ipca_realizado": "0.0130987066",
+    "ipca_realizado_anbima": "1,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200009",
+    "ponto": "1665.9300000000",
+    "fator": "1.0022982835",
+    "ipca_realizado": "0.0022982835",
+    "ipca_realizado_anbima": "0,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200010",
+    "ponto": "1668.2600000000",
+    "fator": "1.0013986182",
+    "ipca_realizado": "0.0013986182",
+    "ipca_realizado_anbima": "0,14%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200011",
+    "ponto": "1673.6000000000",
+    "fator": "1.0032009399",
+    "ipca_realizado": "0.0032009399",
+    "ipca_realizado_anbima": "0,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200012",
+    "ponto": "1683.4700000000",
+    "fator": "1.0058974665",
+    "ipca_realizado": "0.0058974665",
+    "ipca_realizado_anbima": "0,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200101",
+    "ponto": "1693.0700000000",
+    "fator": "1.0057025073",
+    "ipca_realizado": "0.0057025073",
+    "ipca_realizado_anbima": "0,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200102",
+    "ponto": "1700.8600000000",
+    "fator": "1.0046011092",
+    "ipca_realizado": "0.0046011092",
+    "ipca_realizado_anbima": "0,46%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200103",
+    "ponto": "1707.3200000000",
+    "fator": "1.0037980786",
+    "ipca_realizado": "0.0037980786",
+    "ipca_realizado_anbima": "0,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200104",
+    "ponto": "1717.2200000000",
+    "fator": "1.0057985615",
+    "ipca_realizado": "0.0057985615",
+    "ipca_realizado_anbima": "0,58%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200105",
+    "ponto": "1724.2600000000",
+    "fator": "1.0040996494",
+    "ipca_realizado": "0.0040996494",
+    "ipca_realizado_anbima": "0,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200106",
+    "ponto": "1733.2300000000",
+    "fator": "1.0052022317",
+    "ipca_realizado": "0.0052022317",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200107",
+    "ponto": "1756.2800000000",
+    "fator": "1.0132988697",
+    "ipca_realizado": "0.0132988697",
+    "ipca_realizado_anbima": "1,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200108",
+    "ponto": "1768.5700000000",
+    "fator": "1.0069977452",
+    "ipca_realizado": "0.0069977452",
+    "ipca_realizado_anbima": "0,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200109",
+    "ponto": "1773.5200000000",
+    "fator": "1.0027988714",
+    "ipca_realizado": "0.0027988714",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200110",
+    "ponto": "1788.2400000000",
+    "fator": "1.0082998782",
+    "ipca_realizado": "0.0082998782",
+    "ipca_realizado_anbima": "0,83%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200111",
+    "ponto": "1800.9400000000",
+    "fator": "1.0071019550",
+    "ipca_realizado": "0.0071019550",
+    "ipca_realizado_anbima": "0,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200112",
+    "ponto": "1812.6500000000",
+    "fator": "1.0065021600",
+    "ipca_realizado": "0.0065021600",
+    "ipca_realizado_anbima": "0,65%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200201",
+    "ponto": "1822.0800000000",
+    "fator": "1.0052023281",
+    "ipca_realizado": "0.0052023281",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200202",
+    "ponto": "1828.6400000000",
+    "fator": "1.0036002810",
+    "ipca_realizado": "0.0036002810",
+    "ipca_realizado_anbima": "0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200203",
+    "ponto": "1839.6100000000",
+    "fator": "1.0059989938",
+    "ipca_realizado": "0.0059989938",
+    "ipca_realizado_anbima": "0,60%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200204",
+    "ponto": "1854.3300000000",
+    "fator": "1.0080016960",
+    "ipca_realizado": "0.0080016960",
+    "ipca_realizado_anbima": "0,80%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200205",
+    "ponto": "1858.2200000000",
+    "fator": "1.0020977927",
+    "ipca_realizado": "0.0020977927",
+    "ipca_realizado_anbima": "0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200206",
+    "ponto": "1866.0200000000",
+    "fator": "1.0041975654",
+    "ipca_realizado": "0.0041975654",
+    "ipca_realizado_anbima": "0,42%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200207",
+    "ponto": "1888.2300000000",
+    "fator": "1.0119023376",
+    "ipca_realizado": "0.0119023376",
+    "ipca_realizado_anbima": "1,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200208",
+    "ponto": "1900.5000000000",
+    "fator": "1.0064981491",
+    "ipca_realizado": "0.0064981491",
+    "ipca_realizado_anbima": "0,65%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200209",
+    "ponto": "1914.1800000000",
+    "fator": "1.0071981058",
+    "ipca_realizado": "0.0071981058",
+    "ipca_realizado_anbima": "0,72%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200210",
+    "ponto": "1939.2600000000",
+    "fator": "1.0131022161",
+    "ipca_realizado": "0.0131022161",
+    "ipca_realizado_anbima": "1,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200211",
+    "ponto": "1997.8300000000",
+    "fator": "1.0302022421",
+    "ipca_realizado": "0.0302022421",
+    "ipca_realizado_anbima": "3,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200212",
+    "ponto": "2039.7800000000",
+    "fator": "1.0209977826",
+    "ipca_realizado": "0.0209977826",
+    "ipca_realizado_anbima": "2,10%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200301",
+    "ponto": "2085.6800000000",
+    "fator": "1.0225024267",
+    "ipca_realizado": "0.0225024267",
+    "ipca_realizado_anbima": "2,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200302",
+    "ponto": "2118.4300000000",
+    "fator": "1.0157023129",
+    "ipca_realizado": "0.0157023129",
+    "ipca_realizado_anbima": "1,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200303",
+    "ponto": "2144.4900000000",
+    "fator": "1.0123015629",
+    "ipca_realizado": "0.0123015629",
+    "ipca_realizado_anbima": "1,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200304",
+    "ponto": "2165.2900000000",
+    "fator": "1.0096992758",
+    "ipca_realizado": "0.0096992758",
+    "ipca_realizado_anbima": "0,97%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200305",
+    "ponto": "2178.5000000000",
+    "fator": "1.0061007994",
+    "ipca_realizado": "0.0061007994",
+    "ipca_realizado_anbima": "0,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200306",
+    "ponto": "2175.2300000000",
+    "fator": "0.9984989672",
+    "ipca_realizado": "-0.0015010328",
+    "ipca_realizado_anbima": "-0,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200307",
+    "ponto": "2179.5800000000",
+    "fator": "1.0019997885",
+    "ipca_realizado": "0.0019997885",
+    "ipca_realizado_anbima": "0,20%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200308",
+    "ponto": "2186.9900000000",
+    "fator": "1.0033997376",
+    "ipca_realizado": "0.0033997376",
+    "ipca_realizado_anbima": "0,34%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200309",
+    "ponto": "2204.0500000000",
+    "fator": "1.0078006758",
+    "ipca_realizado": "0.0078006758",
+    "ipca_realizado_anbima": "0,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200310",
+    "ponto": "2210.4400000000",
+    "fator": "1.0028992083",
+    "ipca_realizado": "0.0028992083",
+    "ipca_realizado_anbima": "0,29%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200311",
+    "ponto": "2217.9600000000",
+    "fator": "1.0034020376",
+    "ipca_realizado": "0.0034020376",
+    "ipca_realizado_anbima": "0,34%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200312",
+    "ponto": "2229.4900000000",
+    "fator": "1.0051984707",
+    "ipca_realizado": "0.0051984707",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200401",
+    "ponto": "2246.4300000000",
+    "fator": "1.0075981502",
+    "ipca_realizado": "0.0075981502",
+    "ipca_realizado_anbima": "0,76%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200402",
+    "ponto": "2260.1300000000",
+    "fator": "1.0060985653",
+    "ipca_realizado": "0.0060985653",
+    "ipca_realizado_anbima": "0,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200403",
+    "ponto": "2270.7500000000",
+    "fator": "1.0046988448",
+    "ipca_realizado": "0.0046988448",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200404",
+    "ponto": "2279.1500000000",
+    "fator": "1.0036992183",
+    "ipca_realizado": "0.0036992183",
+    "ipca_realizado_anbima": "0,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200405",
+    "ponto": "2290.7700000000",
+    "fator": "1.0050983919",
+    "ipca_realizado": "0.0050983919",
+    "ipca_realizado_anbima": "0,51%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200406",
+    "ponto": "2307.0300000000",
+    "fator": "1.0070980500",
+    "ipca_realizado": "0.0070980500",
+    "ipca_realizado_anbima": "0,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200407",
+    "ponto": "2328.0200000000",
+    "fator": "1.0090982779",
+    "ipca_realizado": "0.0090982779",
+    "ipca_realizado_anbima": "0,91%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200408",
+    "ponto": "2344.0800000000",
+    "fator": "1.0068985662",
+    "ipca_realizado": "0.0068985662",
+    "ipca_realizado_anbima": "0,69%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200409",
+    "ponto": "2351.8200000000",
+    "fator": "1.0033019351",
+    "ipca_realizado": "0.0033019351",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200410",
+    "ponto": "2362.1700000000",
+    "fator": "1.0044008470",
+    "ipca_realizado": "0.0044008470",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200411",
+    "ponto": "2378.4700000000",
+    "fator": "1.0069004348",
+    "ipca_realizado": "0.0069004348",
+    "ipca_realizado_anbima": "0,69%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200412",
+    "ponto": "2398.9200000000",
+    "fator": "1.0085979642",
+    "ipca_realizado": "0.0085979642",
+    "ipca_realizado_anbima": "0,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200501",
+    "ponto": "2412.8300000000",
+    "fator": "1.0057984426",
+    "ipca_realizado": "0.0057984426",
+    "ipca_realizado_anbima": "0,58%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200502",
+    "ponto": "2427.0700000000",
+    "fator": "1.0059017834",
+    "ipca_realizado": "0.0059017834",
+    "ipca_realizado_anbima": "0,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200503",
+    "ponto": "2441.8700000000",
+    "fator": "1.0060978876",
+    "ipca_realizado": "0.0060978876",
+    "ipca_realizado_anbima": "0,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200504",
+    "ponto": "2463.1100000000",
+    "fator": "1.0086982517",
+    "ipca_realizado": "0.0086982517",
+    "ipca_realizado_anbima": "0,87%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200505",
+    "ponto": "2475.1800000000",
+    "fator": "1.0049003090",
+    "ipca_realizado": "0.0049003090",
+    "ipca_realizado_anbima": "0,49%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200506",
+    "ponto": "2474.6800000000",
+    "fator": "0.9997979945",
+    "ipca_realizado": "-0.0002020055",
+    "ipca_realizado_anbima": "-0,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200507",
+    "ponto": "2480.8700000000",
+    "fator": "1.0025013335",
+    "ipca_realizado": "0.0025013335",
+    "ipca_realizado_anbima": "0,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200508",
+    "ponto": "2485.0900000000",
+    "fator": "1.0017010162",
+    "ipca_realizado": "0.0017010162",
+    "ipca_realizado_anbima": "0,17%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200509",
+    "ponto": "2493.7900000000",
+    "fator": "1.0035008792",
+    "ipca_realizado": "0.0035008792",
+    "ipca_realizado_anbima": "0,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200510",
+    "ponto": "2512.4900000000",
+    "fator": "1.0074986266",
+    "ipca_realizado": "0.0074986266",
+    "ipca_realizado_anbima": "0,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200511",
+    "ponto": "2526.3100000000",
+    "fator": "1.0055005194",
+    "ipca_realizado": "0.0055005194",
+    "ipca_realizado_anbima": "0,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200512",
+    "ponto": "2535.4000000000",
+    "fator": "1.0035981332",
+    "ipca_realizado": "0.0035981332",
+    "ipca_realizado_anbima": "0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200601",
+    "ponto": "2550.3600000000",
+    "fator": "1.0059004496",
+    "ipca_realizado": "0.0059004496",
+    "ipca_realizado_anbima": "0,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200602",
+    "ponto": "2560.8200000000",
+    "fator": "1.0041013818",
+    "ipca_realizado": "0.0041013818",
+    "ipca_realizado_anbima": "0,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200603",
+    "ponto": "2571.8300000000",
+    "fator": "1.0042994041",
+    "ipca_realizado": "0.0042994041",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200604",
+    "ponto": "2577.2300000000",
+    "fator": "1.0020996722",
+    "ipca_realizado": "0.0020996722",
+    "ipca_realizado_anbima": "0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200605",
+    "ponto": "2579.8100000000",
+    "fator": "1.0010010748",
+    "ipca_realizado": "0.0010010748",
+    "ipca_realizado_anbima": "0,10%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200606",
+    "ponto": "2574.3900000000",
+    "fator": "0.9978990701",
+    "ipca_realizado": "-0.0021009299",
+    "ipca_realizado_anbima": "-0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200607",
+    "ponto": "2579.2800000000",
+    "fator": "1.0018994791",
+    "ipca_realizado": "0.0018994791",
+    "ipca_realizado_anbima": "0,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200608",
+    "ponto": "2580.5700000000",
+    "fator": "1.0005001396",
+    "ipca_realizado": "0.0005001396",
+    "ipca_realizado_anbima": "0,05%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200609",
+    "ponto": "2585.9900000000",
+    "fator": "1.0021003112",
+    "ipca_realizado": "0.0021003112",
+    "ipca_realizado_anbima": "0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200610",
+    "ponto": "2594.5200000000",
+    "fator": "1.0032985433",
+    "ipca_realizado": "0.0032985433",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200611",
+    "ponto": "2602.5600000000",
+    "fator": "1.0030988391",
+    "ipca_realizado": "0.0030988391",
+    "ipca_realizado_anbima": "0,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200612",
+    "ponto": "2615.0500000000",
+    "fator": "1.0047991209",
+    "ipca_realizado": "0.0047991209",
+    "ipca_realizado_anbima": "0,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200701",
+    "ponto": "2626.5600000000",
+    "fator": "1.0044014455",
+    "ipca_realizado": "0.0044014455",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200702",
+    "ponto": "2638.1200000000",
+    "fator": "1.0044011940",
+    "ipca_realizado": "0.0044011940",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200703",
+    "ponto": "2647.8800000000",
+    "fator": "1.0036996043",
+    "ipca_realizado": "0.0036996043",
+    "ipca_realizado_anbima": "0,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200704",
+    "ponto": "2654.5000000000",
+    "fator": "1.0025001133",
+    "ipca_realizado": "0.0025001133",
+    "ipca_realizado_anbima": "0,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200705",
+    "ponto": "2661.9300000000",
+    "fator": "1.0027990205",
+    "ipca_realizado": "0.0027990205",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200706",
+    "ponto": "2669.3800000000",
+    "fator": "1.0027987212",
+    "ipca_realizado": "0.0027987212",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200707",
+    "ponto": "2675.7900000000",
+    "fator": "1.0024013067",
+    "ipca_realizado": "0.0024013067",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200708",
+    "ponto": "2688.3700000000",
+    "fator": "1.0047014153",
+    "ipca_realizado": "0.0047014153",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200709",
+    "ponto": "2693.2100000000",
+    "fator": "1.0018003474",
+    "ipca_realizado": "0.0018003474",
+    "ipca_realizado_anbima": "0,18%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200710",
+    "ponto": "2701.2900000000",
+    "fator": "1.0030001374",
+    "ipca_realizado": "0.0030001374",
+    "ipca_realizado_anbima": "0,30%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200711",
+    "ponto": "2711.5500000000",
+    "fator": "1.0037981853",
+    "ipca_realizado": "0.0037981853",
+    "ipca_realizado_anbima": "0,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200712",
+    "ponto": "2731.6200000000",
+    "fator": "1.0074016706",
+    "ipca_realizado": "0.0074016706",
+    "ipca_realizado_anbima": "0,74%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200801",
+    "ponto": "2746.3700000000",
+    "fator": "1.0053997262",
+    "ipca_realizado": "0.0053997262",
+    "ipca_realizado_anbima": "0,54%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200802",
+    "ponto": "2759.8300000000",
+    "fator": "1.0049010148",
+    "ipca_realizado": "0.0049010148",
+    "ipca_realizado_anbima": "0,49%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200803",
+    "ponto": "2773.0800000000",
+    "fator": "1.0048010204",
+    "ipca_realizado": "0.0048010204",
+    "ipca_realizado_anbima": "0,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200804",
+    "ponto": "2788.3300000000",
+    "fator": "1.0054993004",
+    "ipca_realizado": "0.0054993004",
+    "ipca_realizado_anbima": "0,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200805",
+    "ponto": "2810.3600000000",
+    "fator": "1.0079007865",
+    "ipca_realizado": "0.0079007865",
+    "ipca_realizado_anbima": "0,79%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200806",
+    "ponto": "2831.1600000000",
+    "fator": "1.0074011870",
+    "ipca_realizado": "0.0074011870",
+    "ipca_realizado_anbima": "0,74%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200807",
+    "ponto": "2846.1600000000",
+    "fator": "1.0052981817",
+    "ipca_realizado": "0.0052981817",
+    "ipca_realizado_anbima": "0,53%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200808",
+    "ponto": "2854.1300000000",
+    "fator": "1.0028002642",
+    "ipca_realizado": "0.0028002642",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200809",
+    "ponto": "2861.5500000000",
+    "fator": "1.0025997414",
+    "ipca_realizado": "0.0025997414",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200810",
+    "ponto": "2874.4300000000",
+    "fator": "1.0045010571",
+    "ipca_realizado": "0.0045010571",
+    "ipca_realizado_anbima": "0,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200811",
+    "ponto": "2884.7800000000",
+    "fator": "1.0036007139",
+    "ipca_realizado": "0.0036007139",
+    "ipca_realizado_anbima": "0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200812",
+    "ponto": "2892.8600000000",
+    "fator": "1.0028009068",
+    "ipca_realizado": "0.0028009068",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200901",
+    "ponto": "2906.7400000000",
+    "fator": "1.0047980200",
+    "ipca_realizado": "0.0047980200",
+    "ipca_realizado_anbima": "0,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200902",
+    "ponto": "2922.7300000000",
+    "fator": "1.0055010080",
+    "ipca_realizado": "0.0055010080",
+    "ipca_realizado_anbima": "0,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200903",
+    "ponto": "2928.5700000000",
+    "fator": "1.0019981319",
+    "ipca_realizado": "0.0019981319",
+    "ipca_realizado_anbima": "0,20%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200904",
+    "ponto": "2942.6300000000",
+    "fator": "1.0048009780",
+    "ipca_realizado": "0.0048009780",
+    "ipca_realizado_anbima": "0,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200905",
+    "ponto": "2956.4600000000",
+    "fator": "1.0046998773",
+    "ipca_realizado": "0.0046998773",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200906",
+    "ponto": "2967.1000000000",
+    "fator": "1.0035988987",
+    "ipca_realizado": "0.0035988987",
+    "ipca_realizado_anbima": "0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200907",
+    "ponto": "2974.2200000000",
+    "fator": "1.0023996495",
+    "ipca_realizado": "0.0023996495",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200908",
+    "ponto": "2978.6800000000",
+    "fator": "1.0014995528",
+    "ipca_realizado": "0.0014995528",
+    "ipca_realizado_anbima": "0,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200909",
+    "ponto": "2985.8300000000",
+    "fator": "1.0024003921",
+    "ipca_realizado": "0.0024003921",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200910",
+    "ponto": "2994.1900000000",
+    "fator": "1.0027998915",
+    "ipca_realizado": "0.0027998915",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200911",
+    "ponto": "3006.4700000000",
+    "fator": "1.0041012761",
+    "ipca_realizado": "0.0041012761",
+    "ipca_realizado_anbima": "0,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "200912",
+    "ponto": "3017.5900000000",
+    "fator": "1.0036986898",
+    "ipca_realizado": "0.0036986898",
+    "ipca_realizado_anbima": "0,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201001",
+    "ponto": "3040.2200000000",
+    "fator": "1.0074993621",
+    "ipca_realizado": "0.0074993621",
+    "ipca_realizado_anbima": "0,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201002",
+    "ponto": "3063.9300000000",
+    "fator": "1.0077987777",
+    "ipca_realizado": "0.0077987777",
+    "ipca_realizado_anbima": "0,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201003",
+    "ponto": "3079.8600000000",
+    "fator": "1.0051992049",
+    "ipca_realizado": "0.0051992049",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201004",
+    "ponto": "3097.4200000000",
+    "fator": "1.0057015579",
+    "ipca_realizado": "0.0057015579",
+    "ipca_realizado_anbima": "0,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201005",
+    "ponto": "3110.7400000000",
+    "fator": "1.0043003532",
+    "ipca_realizado": "0.0043003532",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201006",
+    "ponto": "3110.7400000000",
+    "fator": "1.0000000000",
+    "ipca_realizado": "0.0000000000",
+    "ipca_realizado_anbima": "0,00%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201007",
+    "ponto": "3111.0500000000",
+    "fator": "1.0000996547",
+    "ipca_realizado": "0.0000996547",
+    "ipca_realizado_anbima": "0,01%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201008",
+    "ponto": "3112.2900000000",
+    "fator": "1.0003985793",
+    "ipca_realizado": "0.0003985793",
+    "ipca_realizado_anbima": "0,04%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201009",
+    "ponto": "3126.2900000000",
+    "fator": "1.0044982955",
+    "ipca_realizado": "0.0044982955",
+    "ipca_realizado_anbima": "0,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201010",
+    "ponto": "3149.7400000000",
+    "fator": "1.0075009036",
+    "ipca_realizado": "0.0075009036",
+    "ipca_realizado_anbima": "0,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201011",
+    "ponto": "3175.8800000000",
+    "fator": "1.0082990977",
+    "ipca_realizado": "0.0082990977",
+    "ipca_realizado_anbima": "0,83%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201012",
+    "ponto": "3195.8900000000",
+    "fator": "1.0063006159",
+    "ipca_realizado": "0.0063006159",
+    "ipca_realizado_anbima": "0,63%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201101",
+    "ponto": "3222.4200000000",
+    "fator": "1.0083012870",
+    "ipca_realizado": "0.0083012870",
+    "ipca_realizado_anbima": "0,83%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201102",
+    "ponto": "3248.2000000000",
+    "fator": "1.0080001986",
+    "ipca_realizado": "0.0080001986",
+    "ipca_realizado_anbima": "0,80%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201103",
+    "ponto": "3273.8600000000",
+    "fator": "1.0078997599",
+    "ipca_realizado": "0.0078997599",
+    "ipca_realizado_anbima": "0,79%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201104",
+    "ponto": "3299.0700000000",
+    "fator": "1.0077003904",
+    "ipca_realizado": "0.0077003904",
+    "ipca_realizado_anbima": "0,77%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201105",
+    "ponto": "3314.5800000000",
+    "fator": "1.0047013249",
+    "ipca_realizado": "0.0047013249",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201106",
+    "ponto": "3319.5500000000",
+    "fator": "1.0014994358",
+    "ipca_realizado": "0.0014994358",
+    "ipca_realizado_anbima": "0,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201107",
+    "ponto": "3324.8600000000",
+    "fator": "1.0015996144",
+    "ipca_realizado": "0.0015996144",
+    "ipca_realizado_anbima": "0,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201108",
+    "ponto": "3337.1600000000",
+    "fator": "1.0036994039",
+    "ipca_realizado": "0.0036994039",
+    "ipca_realizado_anbima": "0,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201109",
+    "ponto": "3354.8500000000",
+    "fator": "1.0053009146",
+    "ipca_realizado": "0.0053009146",
+    "ipca_realizado_anbima": "0,53%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201110",
+    "ponto": "3369.2800000000",
+    "fator": "1.0043012355",
+    "ipca_realizado": "0.0043012355",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201111",
+    "ponto": "3386.8000000000",
+    "fator": "1.0051999240",
+    "ipca_realizado": "0.0051999240",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201112",
+    "ponto": "3403.7300000000",
+    "fator": "1.0049988189",
+    "ipca_realizado": "0.0049988189",
+    "ipca_realizado_anbima": "0,50%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201201",
+    "ponto": "3422.7900000000",
+    "fator": "1.0055997391",
+    "ipca_realizado": "0.0055997391",
+    "ipca_realizado_anbima": "0,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201202",
+    "ponto": "3438.1900000000",
+    "fator": "1.0044992535",
+    "ipca_realizado": "0.0044992535",
+    "ipca_realizado_anbima": "0,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201203",
+    "ponto": "3445.4100000000",
+    "fator": "1.0020999421",
+    "ipca_realizado": "0.0020999421",
+    "ipca_realizado_anbima": "0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201204",
+    "ponto": "3467.4600000000",
+    "fator": "1.0063998189",
+    "ipca_realizado": "0.0063998189",
+    "ipca_realizado_anbima": "0,64%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201205",
+    "ponto": "3479.9400000000",
+    "fator": "1.0035991763",
+    "ipca_realizado": "0.0035991763",
+    "ipca_realizado_anbima": "0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201206",
+    "ponto": "3482.7200000000",
+    "fator": "1.0007988643",
+    "ipca_realizado": "0.0007988643",
+    "ipca_realizado_anbima": "0,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201207",
+    "ponto": "3497.7000000000",
+    "fator": "1.0043012358",
+    "ipca_realizado": "0.0043012358",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201208",
+    "ponto": "3512.0400000000",
+    "fator": "1.0040998370",
+    "ipca_realizado": "0.0040998370",
+    "ipca_realizado_anbima": "0,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201209",
+    "ponto": "3532.0600000000",
+    "fator": "1.0057003907",
+    "ipca_realizado": "0.0057003907",
+    "ipca_realizado_anbima": "0,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201210",
+    "ponto": "3552.9000000000",
+    "fator": "1.0059002395",
+    "ipca_realizado": "0.0059002395",
+    "ipca_realizado_anbima": "0,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201211",
+    "ponto": "3574.2200000000",
+    "fator": "1.0060007318",
+    "ipca_realizado": "0.0060007318",
+    "ipca_realizado_anbima": "0,60%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201212",
+    "ponto": "3602.4600000000",
+    "fator": "1.0079010246",
+    "ipca_realizado": "0.0079010246",
+    "ipca_realizado_anbima": "0,79%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201301",
+    "ponto": "3633.4400000000",
+    "fator": "1.0085996791",
+    "ipca_realizado": "0.0085996791",
+    "ipca_realizado_anbima": "0,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201302",
+    "ponto": "3655.2400000000",
+    "fator": "1.0059998239",
+    "ipca_realizado": "0.0059998239",
+    "ipca_realizado_anbima": "0,60%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201303",
+    "ponto": "3672.4200000000",
+    "fator": "1.0047001018",
+    "ipca_realizado": "0.0047001018",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201304",
+    "ponto": "3692.6200000000",
+    "fator": "1.0055004602",
+    "ipca_realizado": "0.0055004602",
+    "ipca_realizado_anbima": "0,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201305",
+    "ponto": "3706.2800000000",
+    "fator": "1.0036992704",
+    "ipca_realizado": "0.0036992704",
+    "ipca_realizado_anbima": "0,37%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201306",
+    "ponto": "3715.9200000000",
+    "fator": "1.0026009908",
+    "ipca_realizado": "0.0026009908",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201307",
+    "ponto": "3717.0300000000",
+    "fator": "1.0002987147",
+    "ipca_realizado": "0.0002987147",
+    "ipca_realizado_anbima": "0,03%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201308",
+    "ponto": "3725.9500000000",
+    "fator": "1.0023997654",
+    "ipca_realizado": "0.0023997654",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201309",
+    "ponto": "3738.9900000000",
+    "fator": "1.0034997786",
+    "ipca_realizado": "0.0034997786",
+    "ipca_realizado_anbima": "0,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201310",
+    "ponto": "3760.3000000000",
+    "fator": "1.0056994001",
+    "ipca_realizado": "0.0056994001",
+    "ipca_realizado_anbima": "0,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201311",
+    "ponto": "3780.6100000000",
+    "fator": "1.0054011648",
+    "ipca_realizado": "0.0054011648",
+    "ipca_realizado_anbima": "0,54%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201312",
+    "ponto": "3815.3900000000",
+    "fator": "1.0091995736",
+    "ipca_realizado": "0.0091995736",
+    "ipca_realizado_anbima": "0,92%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201401",
+    "ponto": "3836.3700000000",
+    "fator": "1.0054987826",
+    "ipca_realizado": "0.0054987826",
+    "ipca_realizado_anbima": "0,55%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201402",
+    "ponto": "3862.8400000000",
+    "fator": "1.0068997516",
+    "ipca_realizado": "0.0068997516",
+    "ipca_realizado_anbima": "0,69%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201403",
+    "ponto": "3898.3800000000",
+    "fator": "1.0092004846",
+    "ipca_realizado": "0.0092004846",
+    "ipca_realizado_anbima": "0,92%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201404",
+    "ponto": "3924.5000000000",
+    "fator": "1.0067002191",
+    "ipca_realizado": "0.0067002191",
+    "ipca_realizado_anbima": "0,67%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201405",
+    "ponto": "3942.5500000000",
+    "fator": "1.0045993120",
+    "ipca_realizado": "0.0045993120",
+    "ipca_realizado_anbima": "0,46%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201406",
+    "ponto": "3958.3200000000",
+    "fator": "1.0039999493",
+    "ipca_realizado": "0.0039999493",
+    "ipca_realizado_anbima": "0,40%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201407",
+    "ponto": "3958.7200000000",
+    "fator": "1.0001010530",
+    "ipca_realizado": "0.0001010530",
+    "ipca_realizado_anbima": "0,01%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201408",
+    "ponto": "3968.6200000000",
+    "fator": "1.0025008083",
+    "ipca_realizado": "0.0025008083",
+    "ipca_realizado_anbima": "0,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201409",
+    "ponto": "3991.2400000000",
+    "fator": "1.0056997143",
+    "ipca_realizado": "0.0056997143",
+    "ipca_realizado_anbima": "0,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201410",
+    "ponto": "4008.0000000000",
+    "fator": "1.0041991962",
+    "ipca_realizado": "0.0041991962",
+    "ipca_realizado_anbima": "0,42%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201411",
+    "ponto": "4028.4400000000",
+    "fator": "1.0050998004",
+    "ipca_realizado": "0.0050998004",
+    "ipca_realizado_anbima": "0,51%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201412",
+    "ponto": "4059.8600000000",
+    "fator": "1.0077995452",
+    "ipca_realizado": "0.0077995452",
+    "ipca_realizado_anbima": "0,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201501",
+    "ponto": "4110.2000000000",
+    "fator": "1.0123994423",
+    "ipca_realizado": "0.0123994423",
+    "ipca_realizado_anbima": "1,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201502",
+    "ponto": "4160.3400000000",
+    "fator": "1.0121989198",
+    "ipca_realizado": "0.0121989198",
+    "ipca_realizado_anbima": "1,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201503",
+    "ponto": "4215.2600000000",
+    "fator": "1.0132008442",
+    "ipca_realizado": "0.0132008442",
+    "ipca_realizado_anbima": "1,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201504",
+    "ponto": "4245.1900000000",
+    "fator": "1.0071003924",
+    "ipca_realizado": "0.0071003924",
+    "ipca_realizado_anbima": "0,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201505",
+    "ponto": "4276.6000000000",
+    "fator": "1.0073989621",
+    "ipca_realizado": "0.0073989621",
+    "ipca_realizado_anbima": "0,74%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201506",
+    "ponto": "4310.3900000000",
+    "fator": "1.0079011364",
+    "ipca_realizado": "0.0079011364",
+    "ipca_realizado_anbima": "0,79%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201507",
+    "ponto": "4337.1100000000",
+    "fator": "1.0061989750",
+    "ipca_realizado": "0.0061989750",
+    "ipca_realizado_anbima": "0,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201508",
+    "ponto": "4346.6500000000",
+    "fator": "1.0021996214",
+    "ipca_realizado": "0.0021996214",
+    "ipca_realizado_anbima": "0,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201509",
+    "ponto": "4370.1200000000",
+    "fator": "1.0053995606",
+    "ipca_realizado": "0.0053995606",
+    "ipca_realizado_anbima": "0,54%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201510",
+    "ponto": "4405.9500000000",
+    "fator": "1.0081988595",
+    "ipca_realizado": "0.0081988595",
+    "ipca_realizado_anbima": "0,82%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201511",
+    "ponto": "4450.4500000000",
+    "fator": "1.0100999784",
+    "ipca_realizado": "0.0100999784",
+    "ipca_realizado_anbima": "1,01%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201512",
+    "ponto": "4493.1700000000",
+    "fator": "1.0095990293",
+    "ipca_realizado": "0.0095990293",
+    "ipca_realizado_anbima": "0,96%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201601",
+    "ponto": "4550.2300000000",
+    "fator": "1.0126992747",
+    "ipca_realizado": "0.0126992747",
+    "ipca_realizado_anbima": "1,27%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201602",
+    "ponto": "4591.1800000000",
+    "fator": "1.0089995451",
+    "ipca_realizado": "0.0089995451",
+    "ipca_realizado_anbima": "0,90%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201603",
+    "ponto": "4610.9200000000",
+    "fator": "1.0042995483",
+    "ipca_realizado": "0.0042995483",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201604",
+    "ponto": "4639.0500000000",
+    "fator": "1.0061007348",
+    "ipca_realizado": "0.0061007348",
+    "ipca_realizado_anbima": "0,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201605",
+    "ponto": "4675.2300000000",
+    "fator": "1.0077990106",
+    "ipca_realizado": "0.0077990106",
+    "ipca_realizado_anbima": "0,78%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201606",
+    "ponto": "4691.5900000000",
+    "fator": "1.0034992931",
+    "ipca_realizado": "0.0034992931",
+    "ipca_realizado_anbima": "0,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201607",
+    "ponto": "4715.9900000000",
+    "fator": "1.0052007955",
+    "ipca_realizado": "0.0052007955",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201608",
+    "ponto": "4736.7400000000",
+    "fator": "1.0043999245",
+    "ipca_realizado": "0.0043999245",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201609",
+    "ponto": "4740.5300000000",
+    "fator": "1.0008001284",
+    "ipca_realizado": "0.0008001284",
+    "ipca_realizado_anbima": "0,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201610",
+    "ponto": "4752.8600000000",
+    "fator": "1.0026009750",
+    "ipca_realizado": "0.0026009750",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201611",
+    "ponto": "4761.4200000000",
+    "fator": "1.0018010209",
+    "ipca_realizado": "0.0018010209",
+    "ipca_realizado_anbima": "0,18%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201612",
+    "ponto": "4775.7000000000",
+    "fator": "1.0029991053",
+    "ipca_realizado": "0.0029991053",
+    "ipca_realizado_anbima": "0,30%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201701",
+    "ponto": "4793.8500000000",
+    "fator": "1.0038004900",
+    "ipca_realizado": "0.0038004900",
+    "ipca_realizado_anbima": "0,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201702",
+    "ponto": "4809.6700000000",
+    "fator": "1.0033000615",
+    "ipca_realizado": "0.0033000615",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201703",
+    "ponto": "4821.6900000000",
+    "fator": "1.0024991320",
+    "ipca_realizado": "0.0024991320",
+    "ipca_realizado_anbima": "0,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201704",
+    "ponto": "4828.4400000000",
+    "fator": "1.0013999241",
+    "ipca_realizado": "0.0013999241",
+    "ipca_realizado_anbima": "0,14%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201705",
+    "ponto": "4843.4100000000",
+    "fator": "1.0031003802",
+    "ipca_realizado": "0.0031003802",
+    "ipca_realizado_anbima": "0,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201706",
+    "ponto": "4832.2700000000",
+    "fator": "0.9976999676",
+    "ipca_realizado": "-0.0023000324",
+    "ipca_realizado_anbima": "-0,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201707",
+    "ponto": "4843.8700000000",
+    "fator": "1.0024005281",
+    "ipca_realizado": "0.0024005281",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201708",
+    "ponto": "4853.0700000000",
+    "fator": "1.0018993078",
+    "ipca_realizado": "0.0018993078",
+    "ipca_realizado_anbima": "0,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201709",
+    "ponto": "4860.8300000000",
+    "fator": "1.0015989879",
+    "ipca_realizado": "0.0015989879",
+    "ipca_realizado_anbima": "0,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201710",
+    "ponto": "4881.2500000000",
+    "fator": "1.0042009286",
+    "ipca_realizado": "0.0042009286",
+    "ipca_realizado_anbima": "0,42%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201711",
+    "ponto": "4894.9200000000",
+    "fator": "1.0028005122",
+    "ipca_realizado": "0.0028005122",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201712",
+    "ponto": "4916.4600000000",
+    "fator": "1.0044004805",
+    "ipca_realizado": "0.0044004805",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201801",
+    "ponto": "4930.7200000000",
+    "fator": "1.0029004609",
+    "ipca_realizado": "0.0029004609",
+    "ipca_realizado_anbima": "0,29%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201802",
+    "ponto": "4946.5000000000",
+    "fator": "1.0032003440",
+    "ipca_realizado": "0.0032003440",
+    "ipca_realizado_anbima": "0,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201803",
+    "ponto": "4950.9500000000",
+    "fator": "1.0008996260",
+    "ipca_realizado": "0.0008996260",
+    "ipca_realizado_anbima": "0,09%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201804",
+    "ponto": "4961.8400000000",
+    "fator": "1.0021995779",
+    "ipca_realizado": "0.0021995779",
+    "ipca_realizado_anbima": "0,22%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201805",
+    "ponto": "4981.6900000000",
+    "fator": "1.0040005321",
+    "ipca_realizado": "0.0040005321",
+    "ipca_realizado_anbima": "0,40%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201806",
+    "ponto": "5044.4600000000",
+    "fator": "1.0126001417",
+    "ipca_realizado": "0.0126001417",
+    "ipca_realizado_anbima": "1,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201807",
+    "ponto": "5061.1100000000",
+    "fator": "1.0033006506",
+    "ipca_realizado": "0.0033006506",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201808",
+    "ponto": "5056.5600000000",
+    "fator": "0.9991009877",
+    "ipca_realizado": "-0.0008990123",
+    "ipca_realizado_anbima": "-0,09%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201809",
+    "ponto": "5080.8300000000",
+    "fator": "1.0047997057",
+    "ipca_realizado": "0.0047997057",
+    "ipca_realizado_anbima": "0,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201810",
+    "ponto": "5103.6900000000",
+    "fator": "1.0044992649",
+    "ipca_realizado": "0.0044992649",
+    "ipca_realizado_anbima": "0,45%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201811",
+    "ponto": "5092.9700000000",
+    "fator": "0.9978995589",
+    "ipca_realizado": "-0.0021004411",
+    "ipca_realizado_anbima": "-0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201812",
+    "ponto": "5100.6100000000",
+    "fator": "1.0015001070",
+    "ipca_realizado": "0.0015001070",
+    "ipca_realizado_anbima": "0,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201901",
+    "ponto": "5116.9300000000",
+    "fator": "1.0031996173",
+    "ipca_realizado": "0.0031996173",
+    "ipca_realizado_anbima": "0,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201902",
+    "ponto": "5138.9300000000",
+    "fator": "1.0042994530",
+    "ipca_realizado": "0.0042994530",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201903",
+    "ponto": "5177.4700000000",
+    "fator": "1.0074996157",
+    "ipca_realizado": "0.0074996157",
+    "ipca_realizado_anbima": "0,75%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201904",
+    "ponto": "5206.9800000000",
+    "fator": "1.0056996950",
+    "ipca_realizado": "0.0056996950",
+    "ipca_realizado_anbima": "0,57%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201905",
+    "ponto": "5213.7500000000",
+    "fator": "1.0013001778",
+    "ipca_realizado": "0.0013001778",
+    "ipca_realizado_anbima": "0,13%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201906",
+    "ponto": "5214.2700000000",
+    "fator": "1.0000997363",
+    "ipca_realizado": "0.0000997363",
+    "ipca_realizado_anbima": "0,01%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201907",
+    "ponto": "5224.1800000000",
+    "fator": "1.0019005537",
+    "ipca_realizado": "0.0019005537",
+    "ipca_realizado_anbima": "0,19%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201908",
+    "ponto": "5229.9300000000",
+    "fator": "1.0011006512",
+    "ipca_realizado": "0.0011006512",
+    "ipca_realizado_anbima": "0,11%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201909",
+    "ponto": "5227.8400000000",
+    "fator": "0.9996003771",
+    "ipca_realizado": "-0.0003996229",
+    "ipca_realizado_anbima": "-0,04%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201910",
+    "ponto": "5233.0700000000",
+    "fator": "1.0010004132",
+    "ipca_realizado": "0.0010004132",
+    "ipca_realizado_anbima": "0,10%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201911",
+    "ponto": "5259.7600000000",
+    "fator": "1.0051002566",
+    "ipca_realizado": "0.0051002566",
+    "ipca_realizado_anbima": "0,51%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "201912",
+    "ponto": "5320.2500000000",
+    "fator": "1.0115005247",
+    "ipca_realizado": "0.0115005247",
+    "ipca_realizado_anbima": "1,15%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202001",
+    "ponto": "5331.4200000000",
+    "fator": "1.0020995254",
+    "ipca_realizado": "0.0020995254",
+    "ipca_realizado_anbima": "0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202002",
+    "ponto": "5344.7500000000",
+    "fator": "1.0025002720",
+    "ipca_realizado": "0.0025002720",
+    "ipca_realizado_anbima": "0,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202003",
+    "ponto": "5348.4900000000",
+    "fator": "1.0006997521",
+    "ipca_realizado": "0.0006997521",
+    "ipca_realizado_anbima": "0,07%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202004",
+    "ponto": "5331.9100000000",
+    "fator": "0.9969000596",
+    "ipca_realizado": "-0.0030999404",
+    "ipca_realizado_anbima": "-0,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202005",
+    "ponto": "5311.6500000000",
+    "fator": "0.9962002359",
+    "ipca_realizado": "-0.0037997641",
+    "ipca_realizado_anbima": "-0,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202006",
+    "ponto": "5325.4600000000",
+    "fator": "1.0025999454",
+    "ipca_realizado": "0.0025999454",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202007",
+    "ponto": "5344.6300000000",
+    "fator": "1.0035996890",
+    "ipca_realizado": "0.0035996890",
+    "ipca_realizado_anbima": "0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202008",
+    "ponto": "5357.4600000000",
+    "fator": "1.0024005404",
+    "ipca_realizado": "0.0024005404",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202009",
+    "ponto": "5391.7500000000",
+    "fator": "1.0064004211",
+    "ipca_realizado": "0.0064004211",
+    "ipca_realizado_anbima": "0,64%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202010",
+    "ponto": "5438.1200000000",
+    "fator": "1.0086001762",
+    "ipca_realizado": "0.0086001762",
+    "ipca_realizado_anbima": "0,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202011",
+    "ponto": "5486.5200000000",
+    "fator": "1.0089001346",
+    "ipca_realizado": "0.0089001346",
+    "ipca_realizado_anbima": "0,89%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202012",
+    "ponto": "5560.5900000000",
+    "fator": "1.0135003609",
+    "ipca_realizado": "0.0135003609",
+    "ipca_realizado_anbima": "1,35%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202101",
+    "ponto": "5574.4900000000",
+    "fator": "1.0024997347",
+    "ipca_realizado": "0.0024997347",
+    "ipca_realizado_anbima": "0,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202102",
+    "ponto": "5622.4300000000",
+    "fator": "1.0085998899",
+    "ipca_realizado": "0.0085998899",
+    "ipca_realizado_anbima": "0,86%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202103",
+    "ponto": "5674.7200000000",
+    "fator": "1.0093002492",
+    "ipca_realizado": "0.0093002492",
+    "ipca_realizado_anbima": "0,93%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202104",
+    "ponto": "5692.3100000000",
+    "fator": "1.0030997124",
+    "ipca_realizado": "0.0030997124",
+    "ipca_realizado_anbima": "0,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202105",
+    "ponto": "5739.5600000000",
+    "fator": "1.0083006723",
+    "ipca_realizado": "0.0083006723",
+    "ipca_realizado_anbima": "0,83%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202106",
+    "ponto": "5769.9800000000",
+    "fator": "1.0053000578",
+    "ipca_realizado": "0.0053000578",
+    "ipca_realizado_anbima": "0,53%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202107",
+    "ponto": "5825.3700000000",
+    "fator": "1.0095996867",
+    "ipca_realizado": "0.0095996867",
+    "ipca_realizado_anbima": "0,96%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202108",
+    "ponto": "5876.0500000000",
+    "fator": "1.0086998766",
+    "ipca_realizado": "0.0086998766",
+    "ipca_realizado_anbima": "0,87%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202109",
+    "ponto": "5944.2100000000",
+    "fator": "1.0115996290",
+    "ipca_realizado": "0.0115996290",
+    "ipca_realizado_anbima": "1,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202110",
+    "ponto": "6018.5100000000",
+    "fator": "1.0124995584",
+    "ipca_realizado": "0.0124995584",
+    "ipca_realizado_anbima": "1,25%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202111",
+    "ponto": "6075.6900000000",
+    "fator": "1.0095006904",
+    "ipca_realizado": "0.0095006904",
+    "ipca_realizado_anbima": "0,95%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202112",
+    "ponto": "6120.0400000000",
+    "fator": "1.0072995824",
+    "ipca_realizado": "0.0072995824",
+    "ipca_realizado_anbima": "0,73%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202201",
+    "ponto": "6153.0900000000",
+    "fator": "1.0054002915",
+    "ipca_realizado": "0.0054002915",
+    "ipca_realizado_anbima": "0,54%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202202",
+    "ponto": "6215.2400000000",
+    "fator": "1.0101006161",
+    "ipca_realizado": "0.0101006161",
+    "ipca_realizado_anbima": "1,01%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202203",
+    "ponto": "6315.9300000000",
+    "fator": "1.0162005007",
+    "ipca_realizado": "0.0162005007",
+    "ipca_realizado_anbima": "1,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202204",
+    "ponto": "6382.8800000000",
+    "fator": "1.0106001808",
+    "ipca_realizado": "0.0106001808",
+    "ipca_realizado_anbima": "1,06%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202205",
+    "ponto": "6412.8800000000",
+    "fator": "1.0047000727",
+    "ipca_realizado": "0.0047000727",
+    "ipca_realizado_anbima": "0,47%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202206",
+    "ponto": "6455.8500000000",
+    "fator": "1.0067005776",
+    "ipca_realizado": "0.0067005776",
+    "ipca_realizado_anbima": "0,67%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202207",
+    "ponto": "6411.9500000000",
+    "fator": "0.9931999659",
+    "ipca_realizado": "-0.0068000341",
+    "ipca_realizado_anbima": "-0,68%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202208",
+    "ponto": "6388.8700000000",
+    "fator": "0.9964004710",
+    "ipca_realizado": "-0.0035995290",
+    "ipca_realizado_anbima": "-0,36%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202209",
+    "ponto": "6370.3400000000",
+    "fator": "0.9970996436",
+    "ipca_realizado": "-0.0029003564",
+    "ipca_realizado_anbima": "-0,29%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202210",
+    "ponto": "6407.9300000000",
+    "fator": "1.0059007839",
+    "ipca_realizado": "0.0059007839",
+    "ipca_realizado_anbima": "0,59%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202211",
+    "ponto": "6434.2000000000",
+    "fator": "1.0040996078",
+    "ipca_realizado": "0.0040996078",
+    "ipca_realizado_anbima": "0,41%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202212",
+    "ponto": "6474.0900000000",
+    "fator": "1.0061996829",
+    "ipca_realizado": "0.0061996829",
+    "ipca_realizado_anbima": "0,62%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202301",
+    "ponto": "6508.4000000000",
+    "fator": "1.0052995865",
+    "ipca_realizado": "0.0052995865",
+    "ipca_realizado_anbima": "0,53%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202302",
+    "ponto": "6563.0700000000",
+    "fator": "1.0083999140",
+    "ipca_realizado": "0.0083999140",
+    "ipca_realizado_anbima": "0,84%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202303",
+    "ponto": "6609.6700000000",
+    "fator": "1.0071003357",
+    "ipca_realizado": "0.0071003357",
+    "ipca_realizado_anbima": "0,71%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202304",
+    "ponto": "6649.9900000000",
+    "fator": "1.0061001533",
+    "ipca_realizado": "0.0061001533",
+    "ipca_realizado_anbima": "0,61%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202305",
+    "ponto": "6665.2800000000",
+    "fator": "1.0022992516",
+    "ipca_realizado": "0.0022992516",
+    "ipca_realizado_anbima": "0,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202306",
+    "ponto": "6659.9500000000",
+    "fator": "0.9992003337",
+    "ipca_realizado": "-0.0007996663",
+    "ipca_realizado_anbima": "-0,08%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202307",
+    "ponto": "6667.9400000000",
+    "fator": "1.0011997087",
+    "ipca_realizado": "0.0011997087",
+    "ipca_realizado_anbima": "0,12%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202308",
+    "ponto": "6683.2800000000",
+    "fator": "1.0023005606",
+    "ipca_realizado": "0.0023005606",
+    "ipca_realizado_anbima": "0,23%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202309",
+    "ponto": "6700.6600000000",
+    "fator": "1.0026005195",
+    "ipca_realizado": "0.0026005195",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202310",
+    "ponto": "6716.7400000000",
+    "fator": "1.0023997636",
+    "ipca_realizado": "0.0023997636",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202311",
+    "ponto": "6735.5500000000",
+    "fator": "1.0028004657",
+    "ipca_realizado": "0.0028004657",
+    "ipca_realizado_anbima": "0,28%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202312",
+    "ponto": "6773.2700000000",
+    "fator": "1.0056001366",
+    "ipca_realizado": "0.0056001366",
+    "ipca_realizado_anbima": "0,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202401",
+    "ponto": "6801.7200000000",
+    "fator": "1.0042003346",
+    "ipca_realizado": "0.0042003346",
+    "ipca_realizado_anbima": "0,42%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202402",
+    "ponto": "6858.1700000000",
+    "fator": "1.0082993713",
+    "ipca_realizado": "0.0082993713",
+    "ipca_realizado_anbima": "0,83%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202403",
+    "ponto": "6869.1400000000",
+    "fator": "1.0015995521",
+    "ipca_realizado": "0.0015995521",
+    "ipca_realizado_anbima": "0,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202404",
+    "ponto": "6895.2400000000",
+    "fator": "1.0037996023",
+    "ipca_realizado": "0.0037996023",
+    "ipca_realizado_anbima": "0,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202405",
+    "ponto": "6926.9600000000",
+    "fator": "1.0046002750",
+    "ipca_realizado": "0.0046002750",
+    "ipca_realizado_anbima": "0,46%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202406",
+    "ponto": "6941.5100000000",
+    "fator": "1.0021004885",
+    "ipca_realizado": "0.0021004885",
+    "ipca_realizado_anbima": "0,21%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202407",
+    "ponto": "6967.8900000000",
+    "fator": "1.0038003259",
+    "ipca_realizado": "0.0038003259",
+    "ipca_realizado_anbima": "0,38%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202408",
+    "ponto": "6966.5000000000",
+    "fator": "0.9998005135",
+    "ipca_realizado": "-0.0001994865",
+    "ipca_realizado_anbima": "-0,02%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202409",
+    "ponto": "6997.1500000000",
+    "fator": "1.0043996268",
+    "ipca_realizado": "0.0043996268",
+    "ipca_realizado_anbima": "0,44%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202410",
+    "ponto": "7036.3300000000",
+    "fator": "1.0055994226",
+    "ipca_realizado": "0.0055994226",
+    "ipca_realizado_anbima": "0,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202411",
+    "ponto": "7063.7700000000",
+    "fator": "1.0038997602",
+    "ipca_realizado": "0.0038997602",
+    "ipca_realizado_anbima": "0,39%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202412",
+    "ponto": "7100.5000000000",
+    "fator": "1.0051997729",
+    "ipca_realizado": "0.0051997729",
+    "ipca_realizado_anbima": "0,52%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202501",
+    "ponto": "7111.8600000000",
+    "fator": "1.0015998873",
+    "ipca_realizado": "0.0015998873",
+    "ipca_realizado_anbima": "0,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202502",
+    "ponto": "7205.0300000000",
+    "fator": "1.0131006516",
+    "ipca_realizado": "0.0131006516",
+    "ipca_realizado_anbima": "1,31%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202503",
+    "ponto": "7245.3800000000",
+    "fator": "1.0056002543",
+    "ipca_realizado": "0.0056002543",
+    "ipca_realizado_anbima": "0,56%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202504",
+    "ponto": "7276.5400000000",
+    "fator": "1.0043006716",
+    "ipca_realizado": "0.0043006716",
+    "ipca_realizado_anbima": "0,43%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202505",
+    "ponto": "7295.4600000000",
+    "fator": "1.0026001369",
+    "ipca_realizado": "0.0026001369",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202506",
+    "ponto": "7312.9700000000",
+    "fator": "1.0024001228",
+    "ipca_realizado": "0.0024001228",
+    "ipca_realizado_anbima": "0,24%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202507",
+    "ponto": "7331.9800000000",
+    "fator": "1.0025994910",
+    "ipca_realizado": "0.0025994910",
+    "ipca_realizado_anbima": "0,26%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202508",
+    "ponto": "7323.9100000000",
+    "fator": "0.9988993423",
+    "ipca_realizado": "-0.0011006577",
+    "ipca_realizado_anbima": "-0,11%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202509",
+    "ponto": "7359.0600000000",
+    "fator": "1.0047993490",
+    "ipca_realizado": "0.0047993490",
+    "ipca_realizado_anbima": "0,48%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202510",
+    "ponto": "7365.6800000000",
+    "fator": "1.0008995714",
+    "ipca_realizado": "0.0008995714",
+    "ipca_realizado_anbima": "0,09%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202511",
+    "ponto": "7378.9400000000",
+    "fator": "1.0018002411",
+    "ipca_realizado": "0.0018002411",
+    "ipca_realizado_anbima": "0,18%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202512",
+    "ponto": "7403.2900000000",
+    "fator": "1.0032999320",
+    "ipca_realizado": "0.0032999320",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202601",
+    "ponto": "7427.7200000000",
+    "fator": "1.0032998842",
+    "ipca_realizado": "0.0032998842",
+    "ipca_realizado_anbima": "0,33%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202602",
+    "ponto": "7479.7100000000",
+    "fator": "1.0069994561",
+    "ipca_realizado": "0.0069994561",
+    "ipca_realizado_anbima": "0,70%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202603",
+    "ponto": "7545.5300000000",
+    "fator": "1.0087998064",
+    "ipca_realizado": "0.0087998064",
+    "ipca_realizado_anbima": "0,88%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202604",
+    "ponto": "7596.0900000000",
+    "fator": "1.0067006559",
+    "ipca_realizado": "0.0067006559",
+    "ipca_realizado_anbima": "0,67%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202605",
+    "ponto": "7640.1500000000",
+    "fator": "1.0058003525",
+    "ipca_realizado": "0.0058003525",
+    "ipca_realizado_anbima": "0,58%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202606",
+    "ponto": "7652.3700000000",
+    "fator": "1.0015994450",
+    "ipca_realizado": "0.0015994450",
+    "ipca_realizado_anbima": "0,16%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202607",
+    "ponto": "7657.7300000000",
+    "fator": "1.0007004366",
+    "ipca_realizado": "0.0007004366",
+    "ipca_realizado_anbima": "0,07%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202608",
+    "ponto": "7633.2300000000",
+    "fator": "0.9968006185",
+    "ipca_realizado": "-0.0031993815",
+    "ipca_realizado_anbima": "-0,32%"
+  },
+  {
+    "modelo": "IPCA",
+    "mes_referencia": "202609",
+    "ponto": "7695.8200000000",
+    "fator": "1.0081996743",
+    "ipca_realizado": "0.0081996743",
+    "ipca_realizado_anbima": "0,82%"
+  }
+]
