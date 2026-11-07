@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"example.com/ipca-sidra-go/internal/ipca"
+	"github.com/santannaf/ipca-sidra-go/internal/ipca"
 )
 
 func main() {

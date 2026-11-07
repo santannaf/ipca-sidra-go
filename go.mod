@@ -1,3 +1,3 @@
-module example.com/ipca-sidra-go
+module github.com/santannaf/ipca-sidra-go
 
 go 1.22
